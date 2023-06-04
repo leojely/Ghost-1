@@ -1,7 +1,7 @@
 {
-    "Now check your email!": "",
-    "Please enter a valid email address": "",
-    "Something went wrong, please try again.": "",
-    "Subscribe": "",
-    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": ""
+    "Now check your email!": "Şimdi, e-postanızı kontrol edin",
+    "Please enter a valid email address": "Lütfen geçerli bir e-posta adresi girin.",
+    "Something went wrong, please try again.": "Bir şeyler yanlış gitti, lütfen tekrar deneyin.",
+    "Subscribe": "Abone ol",
+    "To complete signup, click the confirmation link in your inbox. If it doesn't arrive within 3 minutes, check your spam folder!": "Kaydolmayı tamamlamak için, e-postanızdaki doğrulama linkine tıklayın. Eğer 3 dakika içinde e-posta size ulaşmazsa, spam klasörünü kontrol edin."
 }
